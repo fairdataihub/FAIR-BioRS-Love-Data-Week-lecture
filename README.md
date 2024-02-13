@@ -26,6 +26,7 @@ We list here major resources relevant to the presentation
 | Introducing the FAIR Principles for research software                          | https://doi.org/10.15497/RDA00068 |
 | FAIR Principles for Research Software version 1.0.                    | https://doi.org/10.1038/s41597-022-01710-x  |
 | NIH Best Practices for Sharing Research Software                          | https://datascience.nih.gov/tools-and-analytics/best-practices-for-sharing-research-software-faq  |
+| Evidence for the importance of research software       | https://www.researchsoft.org/resa-resources/ |
 | The FAIR Guiding Principles for scientific data management and stewardship                           | https://doi.org/10.1038/sdata.2016.18  |
 
 
